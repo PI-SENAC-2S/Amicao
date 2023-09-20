@@ -41,7 +41,10 @@ Para atender os critérios de avaliação, decidimos criar um "petshop" com algu
 ![Cadastro](https://github.com/PI-SENAC-2S/Amicao/blob/main/_assets/02.png)<br>
 
 ---
+## 🏦 DER (Diagrama Entidade Relacionamento)
 
+![DER](https://github.com/PI-SENAC-2S/Amicao/blob/main/_assets/03.png)<br>
+---
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
