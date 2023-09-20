@@ -14,7 +14,7 @@
 
 Amicão é um projeto criado para avaliação da matéria do PI (Matéria da faculdade de ADS no SENAC)
 
-O desafio proposto para este projeto era a criação de uma interface gráficam com ligação ao banco de dados
+O desafio proposto para este projeto era a criação de uma interface gráfica com ligação ao banco de dados
 
 ---
 
