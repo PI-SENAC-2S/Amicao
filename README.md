@@ -14,7 +14,9 @@
 
 Amicão é um projeto criado para avaliação da matéria do PI (Matéria da faculdade de ADS no SENAC)
 
-O desafio proposto para este projeto era a criação de uma interface gráfica com ligação ao banco de dados
+O desafio proposto para este projeto era a criação de uma interface gráfica com ligação ao banco de dados.
+
+Para atender os critérios de avaliação, decidimos criar um "petshop" com algumas funcionalidades.
 
 ---
 
@@ -24,6 +26,9 @@ O desafio proposto para este projeto era a criação de uma interface gráfica c
 - [x] Tela de cadastro
 - [ ] Cadastrar usuário no banco de dados (em andamento)
 - [ ] Verificar se o usuário e senha bate com o banco (em andamento)
+- [ ] Selecionar um horário de banho para o animal (em andamento)
+- [ ] Realizar uma compra na "loja" (em andamento)
+- [ ] Poder adotar um animal (em andamento)
 
 ---
 ## 🎨 Prototipação
