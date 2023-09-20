@@ -6,7 +6,9 @@
 
 - Projeto-PI2 (Pasta que contém o projeto JAVA)
 
--  (Arquivo que contém o DER)
+- Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
+
+- Conceitual_2.brM3 (Arquivo que contém o Modelo Conceitual)
 
 ---
 
