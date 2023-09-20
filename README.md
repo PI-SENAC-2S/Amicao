@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  Amicao 🐕 em andamento 🚀 🚧
+	🚧  Amicão 🐕 em andamento 🚀 🚧
 </h4>
 
 ## 📄 Descrição do entregável
