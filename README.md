@@ -51,5 +51,4 @@ O desafio proposto para este projeto era a criação de uma interface gráficam 
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
