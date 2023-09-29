@@ -15,7 +15,7 @@
 ### Entrega 2
 
 - Projeto-PI2 (Pasta que contém o projeto JAVA)
-  	Atualizamos os getter e setter de todas as tabelas
+  	Atualizamos os getter e setter
   
 - Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
   	Atualizamos as tabelas
