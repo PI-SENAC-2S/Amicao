@@ -45,7 +45,8 @@ Para atender os critérios de avaliação, decidimos criar um "petshop" com algu
 ---
 ## 🏦 DER (Diagrama Entidade Relacionamento)
 
-![DER](https://github.com/PI-SENAC-2S/Amicao/blob/main/_assets/03.png)<br>
+![DER](https://github.com/PI-SENAC-2S/Amicao/blob/main/_assets/04.jpg)<br>
+![DER](https://github.com/PI-SENAC-2S/Amicao/blob/main/_assets/05.jpg)<br>
 ---
 ## 💪 Como contribuir para o projeto
 
