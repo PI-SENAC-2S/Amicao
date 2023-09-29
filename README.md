@@ -10,6 +10,8 @@
 
 - Conceitual_2.brM3 (Arquivo que contém o Modelo Conceitual)
 
+- amicao_petshop.brM3 (Arquivo que contém o Modelo Conceitual da segunda entrega)
+
 ---
 
 ## 💻 Sobre o projeto
