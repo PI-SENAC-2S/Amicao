@@ -41,6 +41,18 @@
 
 - amicao_petshop.brM3 (Arquivo que contém o Modelo Conceitual da segunda entrega)
 
+### Entrega 4
+
+- Projeto-PI2 (Pasta que contém o projeto JAVA)
+
+  		1 - Validar o campo Login
+	
+		2. Cadastro de animal
+	
+		3. Solicitação de serviço petshop
+	
+		4. Validação de campos  
+
 ---
 
 ## 💻 Sobre o projeto
