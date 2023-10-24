@@ -4,18 +4,19 @@
 
 ## 📄 Descrição do entregável
 
-### Entrega 1
+### Entrega 3
 
 - Projeto-PI2 (Pasta que contém o projeto JAVA)
 
-- Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
-
-- Conceitual_2.brM3 (Arquivo que contém o Modelo Conceitual)
-
-### Entrega 2
-
-- Projeto-PI2 (Pasta que contém o projeto JAVA)
-  	Atualizamos os getter e setter
+  		1 - Monte a camada controller em seu projeto integrador;
+	
+		2. Crie a classe ConectarDao e a classes do tipo DAO para controlar seus objetos a partir da camada controller de seu projeto;
+	
+		3. Inclua o driver JODBC MySQL em seu projeto integrador;
+	
+		4. Insira um botão em algum lugar para criar todas as tabelas de do modelo de dados do seu projeto integrador;
+	
+		5. Compartilhe o link do seu projeto no GitHub com o professor;
   
 - Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
   	Atualizamos as tabelas
