@@ -4,23 +4,17 @@
 
 ## 📄 Descrição do entregável
 
-### Entrega 1
+### Entrega 4
 
 - Projeto-PI2 (Pasta que contém o projeto JAVA)
 
-- Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
-
-- Conceitual_2.brM3 (Arquivo que contém o Modelo Conceitual)
-
-### Entrega 2
-
-- Projeto-PI2 (Pasta que contém o projeto JAVA)
-  	Atualizamos os getter e setter
-  
-- Logico_1.brM3 (Arquivo que contém o Diagrama Entidade Relacionamento)
-  	Atualizamos as tabelas
-
-- amicao_petshop.brM3 (Arquivo que contém o Modelo Conceitual da segunda entrega)
+  		1 - Validar o campo Login
+	
+		2. Cadastro de animal
+	
+		3. Solicitação de serviço petshop
+	
+		4. Validação de campos  	  
 
 ---
 
