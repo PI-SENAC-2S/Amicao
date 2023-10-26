@@ -4,7 +4,7 @@
 
 ## 📄 Descrição do entregável
 
-### Entrega 4
+### Entrega 
 
 - Projeto-PI2 (Pasta que contém o projeto JAVA)
 
@@ -30,13 +30,21 @@ Para atender os critérios de avaliação, decidimos criar um "petshop" com algu
 
 ## ⚙️ Funcionalidades
 
-- [x] Tela de login
-- [x] Tela de cadastro
-- [ ] Cadastrar usuário no banco de dados (em andamento)
-- [ ] Verificar se o usuário e senha bate com o banco (em andamento)
-- [ ] Selecionar um horário de banho para o animal (em andamento)
-- [ ] Realizar uma compra na "loja" (em andamento)
-- [ ] Poder adotar um animal (em andamento)
+- Programa
+- [X] Verificar se o usuário e senha bate com o banco (em andamento)
+
+
+- Cliente
+- [x] Realizar login
+- [x] Cadastrar perfil
+- [X] Cadastrar animal
+- [X] Solicitar serviço PetShop
+
+- Funcionário
+- [X] Realizar login
+- [X] Cadastrar novos funcionários
+- [X] Cadastrar novos clientes
+- [X] Visualizar seviços solicitados
 
 ---
 ## 🎨 Prototipação
