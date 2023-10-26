@@ -365,8 +365,8 @@ public class UsuarioDAO extends ConectarDAO{
             ps.setString(2, an.getNome());
             ps.setString(3, an.getEspecie());
             ps.setString(4, an.getRaca());
-            ps.setString(5, an.getSexo());
-            ps.setString(6, an.getPorte());
+            ps.setString(5, an.getPorte());
+            ps.setString(6, an.getSexo());           
             ps.setInt(7, id_cliente);
             
             ps.execute();
