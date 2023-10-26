@@ -53,6 +53,20 @@
 	
 		4. Validação de campos  
 
+### Entrega 5
+
+- Projeto-PI2 (Pasta que contém o projeto JAVA)
+
+  		1. Se basear no modelo entretanto quanto aos diagramas entregar somente o diagrama de classes, diagramas de use case e diagrama entidade relacionamento nesta entrega, os demais diagramas de sequencia, atividaes, estados, etc não é necessário nesta entrega pois trata-se da primeira entrega do pré-projeto.
+	
+		2. Prototipagem das Telas:  Entregar o layout inicial de todas as telas que o programa irá utilizar;
+	
+		3. Fazer as descrições do projeto, versionamento de atividades de acordo com o modelo ilustrativo
+	
+		4. A versão impressa e encadernada deverá coner capa de plastico transparente, colocar capa do senac, sub capa, nomes dos integrantes, não esquecer de usar o formato abnt para formatar o texto do pré-projeto do software, uma entrega apenas para o grupo inteiro não é necessário fazer várias cópias.
+
+  		5. Vejam o modelo de projeto anexado, trata-se de um projeto que servirá como ponto de partida para que seu grupo possa criar o seu pré-projeto;
+
 ---
 
 ## 💻 Sobre o projeto
