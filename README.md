@@ -67,6 +67,14 @@
 
   		5. Vejam o modelo de projeto anexado, trata-se de um projeto que servirá como ponto de partida para que seu grupo possa criar o seu pré-projeto;
 
+### Entrega 6
+
+- Projeto-PI2 (Pasta que contém o projeto JAVA)
+
+  		1. Adicionamos duas novas telas.
+		2. Implementamos a parte UPDATE e DELETE
+  
+  
 ---
 
 ## 💻 Sobre o projeto
@@ -83,11 +91,9 @@ Para atender os critérios de avaliação, decidimos criar um "petshop" com algu
 
 - [x] Tela de login
 - [x] Tela de cadastro
-- [ ] Cadastrar usuário no banco de dados (em andamento)
-- [ ] Verificar se o usuário e senha bate com o banco (em andamento)
-- [ ] Selecionar um horário de banho para o animal (em andamento)
-- [ ] Realizar uma compra na "loja" (em andamento)
-- [ ] Poder adotar um animal (em andamento)
+- [X] Cadastrar usuário no banco de dados
+- [X] Verificar se o usuário e senha bate com o banco 
+- [X] Selecionar um horário de banho para o animal 
 
 ---
 ## 🎨 Prototipação
